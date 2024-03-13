@@ -1,0 +1,4 @@
+file:///C:/Users/oana-/Desktop/AF/CLion%20Proiecte/tema_1_sortare/cmake-build-debug/report-Average-20221021-035244.html
+file:///C:/Users/oana-/Desktop/AF/CLion%20Proiecte/tema_1_sortare/cmake-build-debug/report-Worst-20221021-035246.html
+file:///C:/Users/oana-/Desktop/AF/CLion%20Proiecte/tema_1_sortare/cmake-build-debug/report-Best-20221021-035245.html
+file:///C:/Users/oana-/Desktop/AF/CLion%20Proiecte/tema_1_sortare/cmake-build-debug/report-Average-20221021-035245.html
